@@ -1,7 +1,7 @@
 # Data Structure Final Project Output Comparing
 ## Installation
 
-put the required file in same folder
+put the required files in same folder
 ```bash
 check.exe
 Makefile
@@ -20,7 +20,7 @@ YOU SHOULD NAMED YOUR k-core output file AS kcore_cmp.txt.
 
 YOU SHOULD NAMED YOUR clique output file AS clique_cmp.txt.
 
-then you will get a FILE
+then you will get a FILE with the result
 
 ``` file
 compare_result.txt
